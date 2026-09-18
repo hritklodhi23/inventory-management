@@ -1,0 +1,23 @@
+# Maven
+backend/target/
+
+# IntelliJ
+backend/.idea/
+.idea/
+*.iml
+
+# VS Code
+backend/.vscode/
+.vscode/
+
+# Node
+frontend/node_modules/
+frontend/dist/
+
+# Environment files
+.env
+.env.*
+
+# OS files
+.DS_Store
+Thumbs.db
